@@ -9,5 +9,5 @@ document.getElementById("password").innerHTML = admin.userpassword;
 
 function logoff(){
     window.localStorage.clear();
-    location.replace("/index.html");
+    location.replace("index.html");
 }
