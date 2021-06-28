@@ -61,7 +61,7 @@ function loginbtn(){
             login: true,
         }
         window.localStorage.setItem('user', JSON.stringify(person));
-        location.replace("/admin.html");
+        location.replace("admin.html");
     }
 }
 
