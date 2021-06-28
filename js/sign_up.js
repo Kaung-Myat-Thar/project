@@ -1,3 +1,3 @@
 function loginbtn(){
-    location.replace("/index.html");
+    location.replace("index.html");
 }
