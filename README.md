@@ -14,3 +14,4 @@ If you didn't log out yet, press the logged icon to see how many order you have 
 
 Searching do not work yet, but pressing the search icon will show you search feature.
 
+Your data will be deleted if you click log out button and log in icon will be changed. 
