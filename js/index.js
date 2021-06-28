@@ -29,10 +29,10 @@ mobileBtnExit.addEventListener('click', () => {
 })
 
 if (admin.login){
-    document.getElementById("login").src = "/image/user (1).svg";
+    document.getElementById("login").src = "image/user (1).svg";
     document.getElementById("login-link").href ="admin.html";
 }
 else{
-    document.getElementById("login").src = "/image/user.svg";
+    document.getElementById("login").src = "image/user.svg";
 }
 
